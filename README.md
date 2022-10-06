@@ -1,5 +1,6 @@
 # Repositório do desafio de Projeto sobre Git/GitHub da DIO
 Desafio de Projeto sobre Git
+### João Alexandre Kirst Poltronieri
 ## Links ùteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/)
 
